@@ -1,3 +1,8 @@
 body{
     background-color:rgb(131, 161, 190) ;
 }
+h1{
+    font-size: 190px;
+    font-style: italic;
+    color: aliceblue;
+}
